@@ -74447,6 +74447,8 @@
     "crewToAMS": [
         {
             "id_crew": "2488",
+            "name_first": "Abraham",
+            "name_last": "Atar",
             "id_ship": 980,
             "bpl_place": "Maassluis",
             "bpl_country": "Netherlands",
@@ -74470,10 +74472,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "4.0",
+            "ship_year": "1707.0"
         },
         {
             "id_crew": "2489",
+            "name_first": "Gurryan",
+            "name_last": "Dlüts",
             "id_ship": 980,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -74497,10 +74503,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "4.0",
+            "ship_year": "1707.0"
         },
         {
             "id_crew": "2609",
+            "name_first": "Walter",
+            "name_last": "Swan",
             "id_ship": 1028,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -74524,10 +74534,14 @@
             "je_ship_pos": [
                 18.062941,
                 59.332298
-            ]
+            ],
+            "ship_month": "5.0",
+            "ship_year": "1704.0"
         },
         {
             "id_crew": "2626",
+            "name_first": "Dirch",
+            "name_last": "Gerston",
             "id_ship": 1035,
             "bpl_place": "Bremen",
             "bpl_country": "Germany",
@@ -74551,10 +74565,14 @@
             "je_ship_pos": [
                 -0.12714,
                 51.506321
-            ]
+            ],
+            "ship_month": "11.0",
+            "ship_year": "1707.0"
         },
         {
             "id_crew": "2725",
+            "name_first": "Teunis",
+            "name_last": "Jensen",
             "id_ship": 1074,
             "bpl_place": "Haegeland, Norway",
             "bpl_country": "Norway",
@@ -74578,10 +74596,14 @@
             "je_ship_pos": [
                 -2.0232799999999997,
                 48.650490000000005
-            ]
+            ],
+            "ship_month": "5.0",
+            "ship_year": "1705.0"
         },
         {
             "id_crew": "2768",
+            "name_first": "Haye",
+            "name_last": "Borterle",
             "id_ship": 1089,
             "bpl_place": "Schleswig-Holstein",
             "bpl_country": "Germany",
@@ -74605,10 +74627,14 @@
             "je_ship_pos": [
                 -0.58105,
                 44.836632
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1707.0"
         },
         {
             "id_crew": "2769",
+            "name_first": "Carsten",
+            "name_last": "Johnson",
             "id_ship": 1089,
             "bpl_place": "Schleswig-Holstein",
             "bpl_country": "Germany",
@@ -74632,10 +74658,14 @@
             "je_ship_pos": [
                 -0.58105,
                 44.836632
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1707.0"
         },
         {
             "id_crew": "2811",
+            "name_first": "Lorentz",
+            "name_last": "Oalfeson",
             "id_ship": 1100,
             "bpl_place": "Gothenburg",
             "bpl_country": "Sweden",
@@ -74659,10 +74689,14 @@
             "je_ship_pos": [
                 24.114901,
                 56.945999
-            ]
+            ],
+            "ship_month": "11.0",
+            "ship_year": "1704.0"
         },
         {
             "id_crew": "3027",
+            "name_first": "Marten",
+            "name_last": "Jansen",
             "id_ship": 1195,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -74686,10 +74720,14 @@
             "je_ship_pos": [
                 -0.58105,
                 44.836632
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1704.0"
         },
         {
             "id_crew": "3061",
+            "name_first": "Melchior",
+            "name_last": "Berentsen Eilander",
             "id_ship": 1209,
             "bpl_place": "Ameland",
             "bpl_country": "Netherlands",
@@ -74713,10 +74751,14 @@
             "je_ship_pos": [
                 24.114901,
                 56.945999
-            ]
+            ],
+            "ship_month": "5.0",
+            "ship_year": "1704.0"
         },
         {
             "id_crew": "3384",
+            "name_first": "Joris",
+            "name_last": "Kay",
             "id_ship": 1343,
             "bpl_place": "Blokker, Drechterland",
             "bpl_country": "Netherlands",
@@ -74740,10 +74782,14 @@
             "je_ship_pos": [
                 -0.58105,
                 44.836632
-            ]
+            ],
+            "ship_month": "8.0",
+            "ship_year": "1705.0"
         },
         {
             "id_crew": "3672",
+            "name_first": "Johannes",
+            "name_last": "Garretson",
             "id_ship": 1451,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -74767,10 +74813,14 @@
             "je_ship_pos": [
                 -1.55306,
                 47.218109000000005
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1704.0"
         },
         {
             "id_crew": "3694",
+            "name_first": "Jacob",
+            "name_last": "Andersen",
             "id_ship": 1459,
             "bpl_place": "Schleswig-Holstein",
             "bpl_country": "Germany",
@@ -74794,10 +74844,14 @@
             "je_ship_pos": [
                 -0.58105,
                 44.836632
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1704.0"
         },
         {
             "id_crew": "3716",
+            "name_first": "Gerrit",
+            "name_last": "Janssen",
             "id_ship": 1465,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -74821,10 +74875,14 @@
             "je_ship_pos": [
                 24.7526,
                 59.436475
-            ]
+            ],
+            "ship_month": "5.0",
+            "ship_year": "1704.0"
         },
         {
             "id_crew": "3749",
+            "name_first": "Willem",
+            "name_last": "van Drick",
             "id_ship": 1474,
             "bpl_place": "Brugge",
             "bpl_country": "Belgium",
@@ -74848,10 +74906,14 @@
             "je_ship_pos": [
                 24.114901,
                 56.945999
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1704.0"
         },
         {
             "id_crew": "3768",
+            "name_first": "Dirch",
+            "name_last": "Tyesen",
             "id_ship": 1481,
             "bpl_place": "Ameland",
             "bpl_country": "Netherlands",
@@ -74875,10 +74937,14 @@
             "je_ship_pos": [
                 18.65119,
                 54.353142000000005
-            ]
+            ],
+            "ship_month": "4.0",
+            "ship_year": "1704.0"
         },
         {
             "id_crew": "3769",
+            "name_first": "Mathias",
+            "name_last": "Leivers",
             "id_ship": 1481,
             "bpl_place": "Lubeck",
             "bpl_country": "Germany",
@@ -74902,10 +74968,14 @@
             "je_ship_pos": [
                 18.65119,
                 54.353142000000005
-            ]
+            ],
+            "ship_month": "4.0",
+            "ship_year": "1704.0"
         },
         {
             "id_crew": "3787",
+            "name_first": "Jeeche",
+            "name_last": "Gerrits",
             "id_ship": 1487,
             "bpl_place": "Ameland",
             "bpl_country": "Netherlands",
@@ -74929,10 +74999,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "5.0",
+            "ship_year": "1706.0"
         },
         {
             "id_crew": "3824",
+            "name_first": "Jan Jacob",
+            "name_last": "Julins",
             "id_ship": 1497,
             "bpl_place": "Marstrand",
             "bpl_country": "Sweden",
@@ -74956,10 +75030,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1705.0"
         },
         {
             "id_crew": "3825",
+            "name_first": "Andreas",
+            "name_last": "Piettersen",
             "id_ship": 1497,
             "bpl_place": "Norway",
             "bpl_country": "Norway",
@@ -74983,10 +75061,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1705.0"
         },
         {
             "id_crew": "3851",
+            "name_first": "Hendrick",
+            "name_last": "Kramer",
             "id_ship": 1505,
             "bpl_place": "Schiedam",
             "bpl_country": "Netherlands",
@@ -75010,10 +75092,14 @@
             "je_ship_pos": [
                 -2.0232799999999997,
                 48.650490000000005
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1705.0"
         },
         {
             "id_crew": "4019",
+            "name_first": "Stephan",
+            "name_last": "van Feut",
             "id_ship": 1593,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -75037,10 +75123,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1709.0"
         },
         {
             "id_crew": "4020",
+            "name_first": "Willem",
+            "name_last": "de Wilde",
             "id_ship": 1593,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -75064,10 +75154,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1709.0"
         },
         {
             "id_crew": "4021",
+            "name_first": "Andrew",
+            "name_last": "Lowersen",
             "id_ship": 1593,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -75091,10 +75185,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1709.0"
         },
         {
             "id_crew": "4204",
+            "name_first": "Elie",
+            "name_last": "Morlan",
             "id_ship": 1668,
             "bpl_place": "France",
             "bpl_country": "France",
@@ -75118,10 +75216,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1702.0"
         },
         {
             "id_crew": "4271",
+            "name_first": "Jan",
+            "name_last": "van Beek",
             "id_ship": 1689,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -75145,10 +75247,14 @@
             "je_ship_pos": [
                 4.47849,
                 51.922871
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1705.0"
         },
         {
             "id_crew": "4794",
+            "name_first": "Jan",
+            "name_last": "Sybrandts",
             "id_ship": 1947,
             "bpl_place": "Bergen",
             "bpl_country": "Norway",
@@ -75172,10 +75278,14 @@
             "je_ship_pos": [
                 -1.47627,
                 43.49287
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1704.0"
         },
         {
             "id_crew": "4814",
+            "name_first": "Everts",
+            "name_last": "Cornelius",
             "id_ship": 1953,
             "bpl_place": "Schleswig-Holstein",
             "bpl_country": "Germany",
@@ -75199,10 +75309,14 @@
             "je_ship_pos": [
                 14.860629999999999,
                 56.16972
-            ]
+            ],
+            "ship_month": "8.0",
+            "ship_year": "1705.0"
         },
         {
             "id_crew": "5163",
+            "name_first": "Lubbert",
+            "name_last": "Henderycks",
             "id_ship": 2096,
             "bpl_place": "Hooksiel",
             "bpl_country": "Germany",
@@ -75226,10 +75340,14 @@
             "je_ship_pos": [
                 14.860629999999999,
                 56.16972
-            ]
+            ],
+            "ship_month": "5.0",
+            "ship_year": "1704.0"
         },
         {
             "id_crew": "5309",
+            "name_first": "John",
+            "name_last": "Teunisen",
             "id_ship": 2157,
             "bpl_place": "Norway",
             "bpl_country": "Norway",
@@ -75253,10 +75371,14 @@
             "je_ship_pos": [
                 -3.9826699999999997,
                 48.72551
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1702.0"
         },
         {
             "id_crew": "5313",
+            "name_first": "Adrian",
+            "name_last": "Teunisen",
             "id_ship": 2159,
             "bpl_place": "Vlieland",
             "bpl_country": "Netherlands",
@@ -75280,10 +75402,14 @@
             "je_ship_pos": [
                 4.47849,
                 51.922871
-            ]
+            ],
+            "ship_month": "4.0",
+            "ship_year": "1704.0"
         },
         {
             "id_crew": "5495",
+            "name_first": "Marck",
+            "name_last": "Francis",
             "id_ship": 2222,
             "bpl_place": "Ameland",
             "bpl_country": "Netherlands",
@@ -75307,10 +75433,14 @@
             "je_ship_pos": [
                 -1.15164,
                 46.159432
-            ]
+            ],
+            "ship_month": "11.0",
+            "ship_year": "1703.0"
         },
         {
             "id_crew": "5630",
+            "name_first": "Hendrique",
+            "name_last": "de Hoxart",
             "id_ship": 2283,
             "bpl_place": "Tiel, Gelderland",
             "bpl_country": "Netherlands",
@@ -75334,10 +75464,14 @@
             "je_ship_pos": [
                 123.68490200000001,
                 10.34709
-            ]
+            ],
+            "ship_month": "6.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "5635",
+            "name_first": "Luytjes",
+            "name_last": "Alberts",
             "id_ship": 2284,
             "bpl_place": "Dokkum, Friesland",
             "bpl_country": "Netherlands",
@@ -75361,10 +75495,14 @@
             "je_ship_pos": [
                 -0.95868998766,
                 45.934841156000005
-            ]
+            ],
+            "ship_month": "11.0",
+            "ship_year": "1778.0"
         },
         {
             "id_crew": "5638",
+            "name_first": "Peter",
+            "name_last": "de Wilde",
             "id_ship": 2285,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -75388,10 +75526,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "10.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "6697",
+            "name_first": "Hendrick",
+            "name_last": "de Bruyn",
             "id_ship": 2701,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -75415,10 +75557,14 @@
             "je_ship_pos": [
                 1.07938,
                 49.927151
-            ]
+            ],
+            "ship_month": "4.0",
+            "ship_year": "1801.0"
         },
         {
             "id_crew": "6768",
+            "name_first": "Hendrick",
+            "name_last": "Vonk",
             "id_ship": 2726,
             "bpl_place": "Hamburg",
             "bpl_country": "Germany",
@@ -75442,10 +75588,14 @@
             "je_ship_pos": [
                 4.47849,
                 51.922871
-            ]
+            ],
+            "ship_month": "4.0",
+            "ship_year": "1796.0"
         },
         {
             "id_crew": "6770",
+            "name_first": "Hindrich",
+            "name_last": "Palm Boom",
             "id_ship": 2727,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -75469,10 +75619,14 @@
             "je_ship_pos": [
                 -9.15025,
                 38.72572
-            ]
+            ],
+            "ship_month": "12.0",
+            "ship_year": "1793.0"
         },
         {
             "id_crew": "7067",
+            "name_first": "Gert",
+            "name_last": "Geritz",
             "id_ship": 2858,
             "bpl_place": "Mandal",
             "bpl_country": "Norway",
@@ -75496,10 +75650,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "6.0",
+            "ship_year": "1795.0"
         },
         {
             "id_crew": "7132",
+            "name_first": "Abraham",
+            "name_last": "van de Nelde",
             "id_ship": 2880,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -75523,10 +75681,14 @@
             "je_ship_pos": [
                 7.20573,
                 53.366829
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1796.0"
         },
         {
             "id_crew": "7258",
+            "name_first": "Frederick",
+            "name_last": "Rying",
             "id_ship": 2934,
             "bpl_place": "Bueckeburg",
             "bpl_country": "Germany",
@@ -75550,10 +75712,14 @@
             "je_ship_pos": [
                 -73.04597099999998,
                 19.054425
-            ]
+            ],
+            "ship_month": "10.0",
+            "ship_year": "1799.0"
         },
         {
             "id_crew": "7867",
+            "name_first": "Jacob",
+            "name_last": "Pietersen",
             "id_ship": 3163,
             "bpl_place": "Helsingor",
             "bpl_country": "Denmark",
@@ -75577,10 +75743,14 @@
             "je_ship_pos": [
                 7.20573,
                 53.366829
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1800.0"
         },
         {
             "id_crew": "7874",
+            "name_first": "Piere",
+            "name_last": "Galois",
             "id_ship": 3166,
             "bpl_place": "Mielmont",
             "bpl_country": "Belgium",
@@ -75604,10 +75774,14 @@
             "je_ship_pos": [
                 4.6566,
                 51.811939
-            ]
+            ],
+            "ship_month": "8.0",
+            "ship_year": "1800.0"
         },
         {
             "id_crew": "7877",
+            "name_first": "Frederick",
+            "name_last": "Dakela",
             "id_ship": 3166,
             "bpl_place": "Brambarg, Pinneberg",
             "bpl_country": "Germany",
@@ -75631,10 +75805,14 @@
             "je_ship_pos": [
                 4.6566,
                 51.811939
-            ]
+            ],
+            "ship_month": "8.0",
+            "ship_year": "1800.0"
         },
         {
             "id_crew": "7878",
+            "name_first": "Peter",
+            "name_last": "Laurents",
             "id_ship": 3166,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -75658,10 +75836,14 @@
             "je_ship_pos": [
                 4.6566,
                 51.811939
-            ]
+            ],
+            "ship_month": "8.0",
+            "ship_year": "1800.0"
         },
         {
             "id_crew": "7965",
+            "name_first": "Ernst",
+            "name_last": "Henning Rolling",
             "id_ship": 3205,
             "bpl_place": "Dankersen",
             "bpl_country": "Germany",
@@ -75685,10 +75867,14 @@
             "je_ship_pos": [
                 -0.34585,
                 53.743198
-            ]
+            ],
+            "ship_month": "10.0",
+            "ship_year": "1801.0"
         },
         {
             "id_crew": "8468",
+            "name_first": "Hendrick",
+            "name_last": "Vonk",
             "id_ship": 3386,
             "bpl_place": "Hamburg",
             "bpl_country": "Germany",
@@ -75712,10 +75898,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "4.0",
+            "ship_year": "1796.0"
         },
         {
             "id_crew": "8487",
+            "name_first": "Henry",
+            "name_last": "van der Werf",
             "id_ship": 3393,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -75739,10 +75929,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "4.0",
+            "ship_year": "1796.0"
         },
         {
             "id_crew": "8497",
+            "name_first": "Roelf",
+            "name_last": "Holm",
             "id_ship": 3397,
             "bpl_place": "Bergen",
             "bpl_country": "Norway",
@@ -75766,10 +75960,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "12.0",
+            "ship_year": "1795.0"
         },
         {
             "id_crew": "8520",
+            "name_first": "Gottlieb",
+            "name_last": "Triepke",
             "id_ship": 3406,
             "bpl_place": "Gdansk",
             "bpl_country": "Poland",
@@ -75793,10 +75991,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1797.0"
         },
         {
             "id_crew": "8589",
+            "name_first": "Jan",
+            "name_last": "Sprock Lenburg",
             "id_ship": 3433,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -75820,10 +76022,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1799.0"
         },
         {
             "id_crew": "10096",
+            "name_first": "Dirck",
+            "name_last": "Beckman",
             "id_ship": 4006,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -75847,10 +76053,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "4.0",
+            "ship_year": "1796.0"
         },
         {
             "id_crew": "10097",
+            "name_first": "Hendrick",
+            "name_last": "Vonk",
             "id_ship": 4006,
             "bpl_place": "Hamburg",
             "bpl_country": "Germany",
@@ -75874,10 +76084,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "4.0",
+            "ship_year": "1796.0"
         },
         {
             "id_crew": "10170",
+            "name_first": "Dirk",
+            "name_last": "Kirkhoven",
             "id_ship": 4037,
             "bpl_place": "Zaandam",
             "bpl_country": "Netherlands",
@@ -75901,10 +76115,14 @@
             "je_ship_pos": [
                 4.358709999999999,
                 52.011520000000004
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1797.0"
         },
         {
             "id_crew": "10226",
+            "name_first": "Conzade",
+            "name_last": "Prall",
             "id_ship": 4060,
             "bpl_place": "Bremen",
             "bpl_country": "Germany",
@@ -75928,10 +76146,14 @@
             "je_ship_pos": [
                 9.948139999999999,
                 53.568039
-            ]
+            ],
+            "ship_month": "6.0",
+            "ship_year": "1798.0"
         },
         {
             "id_crew": "10246",
+            "name_first": "Claas",
+            "name_last": "Schroder",
             "id_ship": 4068,
             "bpl_place": "Oberndorf, Cuxhaven",
             "bpl_country": "Germany",
@@ -75955,10 +76177,14 @@
             "je_ship_pos": [
                 -0.12714,
                 51.506321
-            ]
+            ],
+            "ship_month": "9.0",
+            "ship_year": "1798.0"
         },
         {
             "id_crew": "10247",
+            "name_first": "Jan",
+            "name_last": "Hendrick Strockmeyer",
             "id_ship": 4068,
             "bpl_place": "Kathrinhagen, Auetal",
             "bpl_country": "Germany",
@@ -75982,10 +76208,14 @@
             "je_ship_pos": [
                 -0.12714,
                 51.506321
-            ]
+            ],
+            "ship_month": "9.0",
+            "ship_year": "1798.0"
         },
         {
             "id_crew": "10248",
+            "name_first": "Jacob",
+            "name_last": "Bruning",
             "id_ship": 4068,
             "bpl_place": "Altona",
             "bpl_country": "Germany",
@@ -76009,10 +76239,14 @@
             "je_ship_pos": [
                 -0.12714,
                 51.506321
-            ]
+            ],
+            "ship_month": "9.0",
+            "ship_year": "1798.0"
         },
         {
             "id_crew": "10453",
+            "name_first": "Evert",
+            "name_last": "Tietes",
             "id_ship": 4151,
             "bpl_place": "Altona",
             "bpl_country": "Germany",
@@ -76036,10 +76270,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "10.0",
+            "ship_year": "1801.0"
         },
         {
             "id_crew": "10455",
+            "name_first": "Cornelys",
+            "name_last": "Jan Polhuys",
             "id_ship": 4152,
             "bpl_place": "Stade",
             "bpl_country": "Germany",
@@ -76063,10 +76301,14 @@
             "je_ship_pos": [
                 9.99247,
                 53.553341
-            ]
+            ],
+            "ship_month": "8.0",
+            "ship_year": "1801.0"
         },
         {
             "id_crew": "10465",
+            "name_first": "Romke",
+            "name_last": "Jacobs",
             "id_ship": 4155,
             "bpl_place": "Emden",
             "bpl_country": "Germany",
@@ -76090,10 +76332,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "8.0",
+            "ship_year": "1801.0"
         },
         {
             "id_crew": "10672",
+            "name_first": "Hendrick",
+            "name_last": "Kuyp",
             "id_ship": 4239,
             "bpl_place": "Emden",
             "bpl_country": "Germany",
@@ -76117,10 +76363,14 @@
             "je_ship_pos": [
                 -9.15025,
                 38.72572
-            ]
+            ],
+            "ship_month": "9.0",
+            "ship_year": "1798.0"
         },
         {
             "id_crew": "10870",
+            "name_first": "Klaas",
+            "name_last": "Klaassen",
             "id_ship": 4329,
             "bpl_place": "Leer",
             "bpl_country": "Germany",
@@ -76144,10 +76394,14 @@
             "je_ship_pos": [
                 -6.29024,
                 36.529861
-            ]
+            ],
+            "ship_month": "8.0",
+            "ship_year": "1801.0"
         },
         {
             "id_crew": "10928",
+            "name_first": "Ewolt",
+            "name_last": "Roelfs",
             "id_ship": 4350,
             "bpl_place": "Suderstapel",
             "bpl_country": "Germany",
@@ -76171,10 +76425,14 @@
             "je_ship_pos": [
                 9.99247,
                 53.553341
-            ]
+            ],
+            "ship_month": "6.0",
+            "ship_year": "1799.0"
         },
         {
             "id_crew": "11057",
+            "name_first": "Jan",
+            "name_last": "Hendrick Mannas",
             "id_ship": 4394,
             "bpl_place": "Elsfleth",
             "bpl_country": "Germany",
@@ -76198,10 +76456,14 @@
             "je_ship_pos": [
                 -57.655529,
                 6.29898
-            ]
+            ],
+            "ship_month": "8.0",
+            "ship_year": "1795.0"
         },
         {
             "id_crew": "11082",
+            "name_first": "Daniel",
+            "name_last": "Corrich",
             "id_ship": 4403,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -76225,10 +76487,14 @@
             "je_ship_pos": [
                 106.82998700000002,
                 -6.169988
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1796.0"
         },
         {
             "id_crew": "11144",
+            "name_first": "Christian",
+            "name_last": "Schultz",
             "id_ship": 4429,
             "bpl_place": "Altona",
             "bpl_country": "Germany",
@@ -76252,10 +76518,14 @@
             "je_ship_pos": [
                 4.39818,
                 51.918449
-            ]
+            ],
+            "ship_month": "6.0",
+            "ship_year": "1799.0"
         },
         {
             "id_crew": "11331",
+            "name_first": "Auke",
+            "name_last": "Martysen",
             "id_ship": 4505,
             "bpl_place": "Karlshamn",
             "bpl_country": "Sweden",
@@ -76279,10 +76549,14 @@
             "je_ship_pos": [
                 -56.032024,
                 3.91784
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1794.0"
         },
         {
             "id_crew": "11332",
+            "name_first": "Christian",
+            "name_last": "Scholtz",
             "id_ship": 4505,
             "bpl_place": "Udbyhoj",
             "bpl_country": "Denmark",
@@ -76306,10 +76580,14 @@
             "je_ship_pos": [
                 -56.032024,
                 3.91784
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1794.0"
         },
         {
             "id_crew": "11374",
+            "name_first": "Johannes",
+            "name_last": "Sleigten",
             "id_ship": 4521,
             "bpl_place": "Darlowo",
             "bpl_country": "Poland",
@@ -76333,10 +76611,14 @@
             "je_ship_pos": [
                 -6.29024,
                 36.529861
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1796.0"
         },
         {
             "id_crew": "11685",
+            "name_first": "Jan",
+            "name_last": "Hendrick Voigt",
             "id_ship": 4639,
             "bpl_place": "Minden",
             "bpl_country": "Germany",
@@ -76360,10 +76642,14 @@
             "je_ship_pos": [
                 -16.2645,
                 28.460369
-            ]
+            ],
+            "ship_month": "8.0",
+            "ship_year": "1794.0"
         },
         {
             "id_crew": "11961",
+            "name_first": "Phillip",
+            "name_last": "Bond",
             "id_ship": 4750,
             "bpl_place": "New York",
             "bpl_country": "USA",
@@ -76387,10 +76673,14 @@
             "je_ship_pos": [
                 -9.15025,
                 38.72572
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1799.0"
         },
         {
             "id_crew": "12287",
+            "name_first": "Jan",
+            "name_last": "Mageelze",
             "id_ship": 4890,
             "bpl_place": "Nordmarsch",
             "bpl_country": "Germany",
@@ -76414,10 +76704,14 @@
             "je_ship_pos": [
                 -6.29024,
                 36.529861
-            ]
+            ],
+            "ship_month": "12.0",
+            "ship_year": "1796.0"
         },
         {
             "id_crew": "12518",
+            "name_first": "Henrich",
+            "name_last": "Christopher Langhaar",
             "id_ship": 4982,
             "bpl_place": "Leer",
             "bpl_country": "Germany",
@@ -76441,10 +76735,14 @@
             "je_ship_pos": [
                 -6.29024,
                 36.529861
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1793.0"
         },
         {
             "id_crew": "12556",
+            "name_first": "Heye",
+            "name_last": "Hendricks",
             "id_ship": 4995,
             "bpl_place": "Ostfriesland",
             "bpl_country": "Germany",
@@ -76468,10 +76766,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "5.0",
+            "ship_year": "1794.0"
         },
         {
             "id_crew": "12564",
+            "name_first": "Hans",
+            "name_last": "Christian Pieters",
             "id_ship": 4999,
             "bpl_place": "Fohr",
             "bpl_country": "Germany",
@@ -76495,10 +76797,14 @@
             "je_ship_pos": [
                 -4.42016,
                 36.718319
-            ]
+            ],
+            "ship_month": "6.0",
+            "ship_year": "1795.0"
         },
         {
             "id_crew": "12568",
+            "name_first": "Christian",
+            "name_last": "Gansberg",
             "id_ship": 5000,
             "bpl_place": "Kappeln, SH",
             "bpl_country": "Germany",
@@ -76522,10 +76828,14 @@
             "je_ship_pos": [
                 -6.29024,
                 36.529861
-            ]
+            ],
+            "ship_month": "6.0",
+            "ship_year": "1795.0"
         },
         {
             "id_crew": "12577",
+            "name_first": "Marten",
+            "name_last": "Ruyles",
             "id_ship": 5004,
             "bpl_place": "Joure",
             "bpl_country": "Netherlands",
@@ -76549,10 +76859,14 @@
             "je_ship_pos": [
                 -6.29024,
                 36.529861
-            ]
+            ],
+            "ship_month": "6.0",
+            "ship_year": "1795.0"
         },
         {
             "id_crew": "12695",
+            "name_first": "Jan",
+            "name_last": "Kleynburg",
             "id_ship": 5054,
             "bpl_place": "Texel",
             "bpl_country": "Netherlands",
@@ -76576,10 +76890,14 @@
             "je_ship_pos": [
                 -1.47627,
                 43.49287
-            ]
+            ],
+            "ship_month": "4.0",
+            "ship_year": "1798.0"
         },
         {
             "id_crew": "12706",
+            "name_first": "Job",
+            "name_last": "Ysbrands",
             "id_ship": 5058,
             "bpl_place": "Neuharlingersiel",
             "bpl_country": "Germany",
@@ -76603,10 +76921,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "6.0",
+            "ship_year": "1798.0"
         },
         {
             "id_crew": "13007",
+            "name_first": "Eise",
+            "name_last": "Gerdts",
             "id_ship": 5172,
             "bpl_place": "Borkum",
             "bpl_country": "Germany",
@@ -76630,10 +76952,14 @@
             "je_ship_pos": [
                 1.08941,
                 49.44014
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1796.0"
         },
         {
             "id_crew": "13009",
+            "name_first": "Jan",
+            "name_last": "Jacob Swig",
             "id_ship": 5173,
             "bpl_place": "Gdansk",
             "bpl_country": "Poland",
@@ -76657,10 +76983,14 @@
             "je_ship_pos": [
                 12.56761,
                 55.675658999999996
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1797.0"
         },
         {
             "id_crew": "13010",
+            "name_first": "Jan",
+            "name_last": "Crose",
             "id_ship": 5173,
             "bpl_place": "Hassendorf",
             "bpl_country": "Germany",
@@ -76684,10 +77014,14 @@
             "je_ship_pos": [
                 12.56761,
                 55.675658999999996
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1797.0"
         },
         {
             "id_crew": "13011",
+            "name_first": "Henrick",
+            "name_last": "Brink",
             "id_ship": 5173,
             "bpl_place": "Elsfleth",
             "bpl_country": "Germany",
@@ -76711,10 +77045,14 @@
             "je_ship_pos": [
                 12.56761,
                 55.675658999999996
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1797.0"
         },
         {
             "id_crew": "13321",
+            "name_first": "Jan",
+            "name_last": "Luders",
             "id_ship": 5288,
             "bpl_place": "Hamburg",
             "bpl_country": "Germany",
@@ -76738,10 +77076,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "6.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "13567",
+            "name_first": "Anders",
+            "name_last": "Jansen Boy",
             "id_ship": 5402,
             "bpl_place": "Kaliningrad",
             "bpl_country": "GERMANY",
@@ -76765,10 +77107,14 @@
             "je_ship_pos": [
                 -6.0019599999999995,
                 37.387909
-            ]
+            ],
+            "ship_month": "8.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "13584",
+            "name_first": "Christian",
+            "name_last": "Vries",
             "id_ship": 5408,
             "bpl_place": "Aabenraa",
             "bpl_country": "Denmark",
@@ -76792,10 +77138,14 @@
             "je_ship_pos": [
                 0.1009,
                 49.493488
-            ]
+            ],
+            "ship_month": "11.0",
+            "ship_year": "1778.0"
         },
         {
             "id_crew": "13742",
+            "name_first": "Gerrit",
+            "name_last": "Brandt",
             "id_ship": 5484,
             "bpl_place": "Auberg, Kiel",
             "bpl_country": "Germany",
@@ -76819,10 +77169,14 @@
             "je_ship_pos": [
                 -1.55306,
                 47.218109000000005
-            ]
+            ],
+            "ship_month": "8.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "13783",
+            "name_first": "Christian",
+            "name_last": "Andries",
             "id_ship": 5503,
             "bpl_place": "Aalborg",
             "bpl_country": "Denmark",
@@ -76846,10 +77200,14 @@
             "je_ship_pos": [
                 0.1009,
                 49.493488
-            ]
+            ],
+            "ship_month": "5.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "13856",
+            "name_first": "Bauke",
+            "name_last": "Tyerks",
             "id_ship": 5537,
             "bpl_place": "Gaast",
             "bpl_country": "Netherlands",
@@ -76873,10 +77231,14 @@
             "je_ship_pos": [
                 -4.486219999999999,
                 48.390228
-            ]
+            ],
+            "ship_month": "11.0",
+            "ship_year": "1778.0"
         },
         {
             "id_crew": "13887",
+            "name_first": "Claas",
+            "name_last": "Remmers",
             "id_ship": 5549,
             "bpl_place": "Westeraccumersiel",
             "bpl_country": "Germany",
@@ -76900,10 +77262,14 @@
             "je_ship_pos": [
                 9.99247,
                 53.553341
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "13905",
+            "name_first": "Jan",
+            "name_last": "van Duyvenboode",
             "id_ship": 5556,
             "bpl_place": "Katwijk aan Zee",
             "bpl_country": "Netherlands",
@@ -76927,10 +77293,14 @@
             "je_ship_pos": [
                 -8.22733,
                 43.486851
-            ]
+            ],
+            "ship_month": "12.0",
+            "ship_year": "1779.0"
         },
         {
             "id_crew": "13917",
+            "name_first": "Janw",
+            "name_last": "Thomas",
             "id_ship": 5560,
             "bpl_place": "Friesland",
             "bpl_country": "Netherlands",
@@ -76954,10 +77324,14 @@
             "je_ship_pos": [
                 -0.12714,
                 51.506321
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "13918",
+            "name_first": "Antone",
+            "name_last": "Valkenink",
             "id_ship": 5560,
             "bpl_place": "Eggenstein-Leopoldshafen",
             "bpl_country": "Germany",
@@ -76981,10 +77355,14 @@
             "je_ship_pos": [
                 -0.12714,
                 51.506321
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "13919",
+            "name_first": "Hendrick",
+            "name_last": "Jansen",
             "id_ship": 5561,
             "bpl_place": "Fohr",
             "bpl_country": "Germany",
@@ -77008,10 +77386,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "13922",
+            "name_first": "Meyndert",
+            "name_last": "Fredericks",
             "id_ship": 5562,
             "bpl_place": "Schleswig-Holstein",
             "bpl_country": "Germany",
@@ -77035,10 +77417,14 @@
             "je_ship_pos": [
                 -1.55306,
                 47.218109000000005
-            ]
+            ],
+            "ship_month": "10.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "13924",
+            "name_first": "Christian",
+            "name_last": "Bremeier",
             "id_ship": 5562,
             "bpl_place": "Schlage",
             "bpl_country": "Germany",
@@ -77062,10 +77448,14 @@
             "je_ship_pos": [
                 -1.55306,
                 47.218109000000005
-            ]
+            ],
+            "ship_month": "10.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "14080",
+            "name_first": "Jan",
+            "name_last": "Bousset",
             "id_ship": 5631,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -77089,10 +77479,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "5.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "14081",
+            "name_first": "Hendrick",
+            "name_last": "Peetsen",
             "id_ship": 5631,
             "bpl_place": "Szczecin",
             "bpl_country": "Poland",
@@ -77116,10 +77510,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "5.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "14094",
+            "name_first": "Henrick",
+            "name_last": "Meyer",
             "id_ship": 5635,
             "bpl_place": "Rinteln",
             "bpl_country": "Germany",
@@ -77143,10 +77541,14 @@
             "je_ship_pos": [
                 -6.29024,
                 36.529861
-            ]
+            ],
+            "ship_month": "6.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "14116",
+            "name_first": "Christian",
+            "name_last": "Andersen",
             "id_ship": 5642,
             "bpl_place": "Sasel",
             "bpl_country": "Germany",
@@ -77170,10 +77572,14 @@
             "je_ship_pos": [
                 10.319980000000001,
                 43.55291
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "14136",
+            "name_first": "Jan",
+            "name_last": "Rousman",
             "id_ship": 5652,
             "bpl_place": "Friedrichstadt",
             "bpl_country": "Germany",
@@ -77197,10 +77603,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "14204",
+            "name_first": "Jacob",
+            "name_last": "Pyetters",
             "id_ship": 5682,
             "bpl_place": "Friesland",
             "bpl_country": "Netherlands",
@@ -77224,10 +77634,14 @@
             "je_ship_pos": [
                 -75.162452698,
                 39.952278137
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1779.0"
         },
         {
             "id_crew": "14484",
+            "name_first": "Johan",
+            "name_last": "Kunk",
             "id_ship": 5815,
             "bpl_place": "Delmenhorst",
             "bpl_country": "Germany",
@@ -77251,10 +77665,14 @@
             "je_ship_pos": [
                 9.99247,
                 53.553341
-            ]
+            ],
+            "ship_month": "6.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "14485",
+            "name_first": "Ede",
+            "name_last": "Guldts Janszen",
             "id_ship": 5815,
             "bpl_place": "Dornum",
             "bpl_country": "Germany",
@@ -77278,10 +77696,14 @@
             "je_ship_pos": [
                 9.99247,
                 53.553341
-            ]
+            ],
+            "ship_month": "6.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "14542",
+            "name_first": "Johannes",
+            "name_last": "vander Mark",
             "id_ship": 5841,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -77305,10 +77727,14 @@
             "je_ship_pos": [
                 79.8299999999999,
                 10.77
-            ]
+            ],
+            "ship_month": "5.0",
+            "ship_year": "1782.0"
         },
         {
             "id_crew": "14543",
+            "name_first": "Cornelis",
+            "name_last": "Christian Ziewerts",
             "id_ship": 5841,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -77332,10 +77758,14 @@
             "je_ship_pos": [
                 79.8299999999999,
                 10.77
-            ]
+            ],
+            "ship_month": "5.0",
+            "ship_year": "1782.0"
         },
         {
             "id_crew": "14544",
+            "name_first": "Johannes",
+            "name_last": "Eelers",
             "id_ship": 5842,
             "bpl_place": "Lubeck",
             "bpl_country": "Germany",
@@ -77359,10 +77789,14 @@
             "je_ship_pos": [
                 -6.29024,
                 36.529861
-            ]
+            ],
+            "ship_month": "9.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "14598",
+            "name_first": "Hendrick",
+            "name_last": "Coen",
             "id_ship": 5866,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -77386,10 +77820,14 @@
             "je_ship_pos": [
                 0.1009,
                 49.493488
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "14601",
+            "name_first": "Jasper",
+            "name_last": "Coen",
             "id_ship": 5866,
             "bpl_place": "Schoonhoven",
             "bpl_country": "Netherlands",
@@ -77413,10 +77851,14 @@
             "je_ship_pos": [
                 0.1009,
                 49.493488
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "14746",
+            "name_first": "Joachim",
+            "name_last": "Frederich Parlo",
             "id_ship": 5937,
             "bpl_place": "Kamien Pomorski",
             "bpl_country": "Poland",
@@ -77440,10 +77882,14 @@
             "je_ship_pos": [
                 4.47849,
                 51.922871
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "14760",
+            "name_first": "Reindert",
+            "name_last": "van Neuberg",
             "id_ship": 5944,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -77467,10 +77913,14 @@
             "je_ship_pos": [
                 -6.29024,
                 36.529861
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "14761",
+            "name_first": "Jan",
+            "name_last": "Mulder",
             "id_ship": 5944,
             "bpl_place": "Gdansk",
             "bpl_country": "Poland",
@@ -77494,10 +77944,14 @@
             "je_ship_pos": [
                 -6.29024,
                 36.529861
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "14762",
+            "name_first": "Peter",
+            "name_last": "Benzen",
             "id_ship": 5944,
             "bpl_place": "Dragor, Amager",
             "bpl_country": "Denmark",
@@ -77521,10 +77975,14 @@
             "je_ship_pos": [
                 -6.29024,
                 36.529861
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "14779",
+            "name_first": "Godfried",
+            "name_last": "Braemer",
             "id_ship": 5950,
             "bpl_place": "Gdansk",
             "bpl_country": "Poland",
@@ -77548,10 +78006,14 @@
             "je_ship_pos": [
                 2.9127,
                 51.231258000000004
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "14853",
+            "name_first": "Hendrick",
+            "name_last": "Poopes",
             "id_ship": 5986,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -77575,10 +78037,14 @@
             "je_ship_pos": [
                 5.93029,
                 43.12534
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1779.0"
         },
         {
             "id_crew": "14962",
+            "name_first": "Albert",
+            "name_last": "Ammermann",
             "id_ship": 6035,
             "bpl_place": "Grafschaft, Schortens",
             "bpl_country": "Germany",
@@ -77602,10 +78068,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1779.0"
         },
         {
             "id_crew": "14963",
+            "name_first": "Andreas",
+            "name_last": "Mulder",
             "id_ship": 6035,
             "bpl_place": "Romo",
             "bpl_country": "Denmark",
@@ -77629,10 +78099,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1779.0"
         },
         {
             "id_crew": "15027",
+            "name_first": "Christian",
+            "name_last": "Schultz",
             "id_ship": 6069,
             "bpl_place": "Kaliningrad",
             "bpl_country": "GERMANY",
@@ -77656,10 +78130,14 @@
             "je_ship_pos": [
                 2.9127,
                 51.231258000000004
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "15039",
+            "name_first": "Lubbe",
+            "name_last": "Gerrits",
             "id_ship": 6073,
             "bpl_place": "Westermoor",
             "bpl_country": "Germany",
@@ -77683,10 +78161,14 @@
             "je_ship_pos": [
                 1.08941,
                 49.44014
-            ]
+            ],
+            "ship_month": "5.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "15040",
+            "name_first": "Jan",
+            "name_last": "Jacobs",
             "id_ship": 6073,
             "bpl_place": "Emden",
             "bpl_country": "Germany",
@@ -77710,10 +78192,14 @@
             "je_ship_pos": [
                 1.08941,
                 49.44014
-            ]
+            ],
+            "ship_month": "5.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "15041",
+            "name_first": "Tolkert",
+            "name_last": "Jansen",
             "id_ship": 6074,
             "bpl_place": "Juist",
             "bpl_country": "Germany",
@@ -77737,10 +78223,14 @@
             "je_ship_pos": [
                 1.08941,
                 49.44014
-            ]
+            ],
+            "ship_month": "11.0",
+            "ship_year": "1779.0"
         },
         {
             "id_crew": "15096",
+            "name_first": "Jan",
+            "name_last": "Remmers",
             "id_ship": 6092,
             "bpl_place": "Gdansk",
             "bpl_country": "Poland",
@@ -77764,10 +78254,14 @@
             "je_ship_pos": [
                 -3.8261800000000004,
                 48.577061
-            ]
+            ],
+            "ship_month": "10.0",
+            "ship_year": "1778.0"
         },
         {
             "id_crew": "15100",
+            "name_first": "Gowert",
+            "name_last": "Adriaans",
             "id_ship": 6094,
             "bpl_place": "Svinor",
             "bpl_country": "Norway",
@@ -77791,10 +78285,14 @@
             "je_ship_pos": [
                 8.938879999999997,
                 44.410351
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "15111",
+            "name_first": "Hendrick",
+            "name_last": "Pietersen",
             "id_ship": 6098,
             "bpl_place": "Aabenraa",
             "bpl_country": "Denmark",
@@ -77818,10 +78316,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "12.0",
+            "ship_year": "1778.0"
         },
         {
             "id_crew": "15112",
+            "name_first": "Tunis",
+            "name_last": "Andriese",
             "id_ship": 6098,
             "bpl_place": "Drammen",
             "bpl_country": "Norway",
@@ -77845,10 +78347,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "12.0",
+            "ship_year": "1778.0"
         },
         {
             "id_crew": "15113",
+            "name_first": "Dirk",
+            "name_last": "Edlon",
             "id_ship": 6098,
             "bpl_place": "Vastervik",
             "bpl_country": "Sweden",
@@ -77872,10 +78378,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "12.0",
+            "ship_year": "1778.0"
         },
         {
             "id_crew": "15142",
+            "name_first": "Geert",
+            "name_last": "Eysas",
             "id_ship": 6109,
             "bpl_place": "Bellingeweer",
             "bpl_country": "Netherlands",
@@ -77899,10 +78409,14 @@
             "je_ship_pos": [
                 -6.29024,
                 36.529861
-            ]
+            ],
+            "ship_month": "8.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "15152",
+            "name_first": "Hendrick",
+            "name_last": "Janze",
             "id_ship": 6112,
             "bpl_place": "Cuxhaven",
             "bpl_country": "Germany",
@@ -77926,10 +78440,14 @@
             "je_ship_pos": [
                 -8.74103,
                 41.353629999999995
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "15154",
+            "name_first": "Fulps",
+            "name_last": "van Vyen",
             "id_ship": 6113,
             "bpl_place": "Den Helder",
             "bpl_country": "Netherlands",
@@ -77953,10 +78471,14 @@
             "je_ship_pos": [
                 4.47849,
                 51.922871
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "15162",
+            "name_first": "Sieverts",
+            "name_last": "Evertz",
             "id_ship": 6116,
             "bpl_place": "Kristiansand",
             "bpl_country": "Norway",
@@ -77980,10 +78502,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "15163",
+            "name_first": "Lodwyk",
+            "name_last": "Forster",
             "id_ship": 6116,
             "bpl_place": "Fohr",
             "bpl_country": "Germany",
@@ -78007,10 +78533,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "15164",
+            "name_first": "Jan",
+            "name_last": "Louwrens",
             "id_ship": 6116,
             "bpl_place": "Sem",
             "bpl_country": "Denmark",
@@ -78034,10 +78564,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "15195",
+            "name_first": "Elderts",
+            "name_last": "Frenes",
             "id_ship": 6131,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -78061,10 +78595,14 @@
             "je_ship_pos": [
                 8.938879999999997,
                 44.410351
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "15273",
+            "name_first": "Hendrick",
+            "name_last": "Klok",
             "id_ship": 6175,
             "bpl_place": "Lichtensberg, Kalletal",
             "bpl_country": "Germany",
@@ -78088,10 +78626,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "9.0",
+            "ship_year": "1777.0"
         },
         {
             "id_crew": "15274",
+            "name_first": "Rasmus",
+            "name_last": "Corneelus",
             "id_ship": 6175,
             "bpl_place": "Aabenraa",
             "bpl_country": "Denmark",
@@ -78115,10 +78657,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "9.0",
+            "ship_year": "1777.0"
         },
         {
             "id_crew": "15276",
+            "name_first": "Herman",
+            "name_last": "Draveman D'Oyens",
             "id_ship": 6175,
             "bpl_place": "Bordeaux",
             "bpl_country": "France",
@@ -78142,10 +78688,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "9.0",
+            "ship_year": "1777.0"
         },
         {
             "id_crew": "15306",
+            "name_first": "Roelf",
+            "name_last": "Smyt",
             "id_ship": 6185,
             "bpl_place": "Gothenburg",
             "bpl_country": "Sweden",
@@ -78169,10 +78719,14 @@
             "je_ship_pos": [
                 -0.58105,
                 44.836632
-            ]
+            ],
+            "ship_month": "6.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "15308",
+            "name_first": "Warner",
+            "name_last": "Dercks Zyllema",
             "id_ship": 6186,
             "bpl_place": "Groningen",
             "bpl_country": "Netherlands",
@@ -78196,10 +78750,14 @@
             "je_ship_pos": [
                 -6.29024,
                 36.529861
-            ]
+            ],
+            "ship_month": "9.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "15309",
+            "name_first": "Claas",
+            "name_last": "Dirchsen de Haan",
             "id_ship": 6186,
             "bpl_place": "Fohr",
             "bpl_country": "Germany",
@@ -78223,10 +78781,14 @@
             "je_ship_pos": [
                 -6.29024,
                 36.529861
-            ]
+            ],
+            "ship_month": "9.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "15322",
+            "name_first": "Laurens",
+            "name_last": "Pieters",
             "id_ship": 6191,
             "bpl_place": "Ringkobing",
             "bpl_country": "Denmark",
@@ -78250,10 +78812,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "15323",
+            "name_first": "Andrees",
+            "name_last": "Claes",
             "id_ship": 6191,
             "bpl_place": "Husum",
             "bpl_country": "Germany",
@@ -78277,10 +78843,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "15324",
+            "name_first": "Laurens",
+            "name_last": "Pieters the younger",
             "id_ship": 6191,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -78304,10 +78874,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "15340",
+            "name_first": "Bonne",
+            "name_last": "Brower",
             "id_ship": 6197,
             "bpl_place": "Harlingen",
             "bpl_country": "Netherlands",
@@ -78331,10 +78905,14 @@
             "je_ship_pos": [
                 2.9127,
                 51.231258000000004
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "15342",
+            "name_first": "Sweerzt",
+            "name_last": "Tyman",
             "id_ship": 6197,
             "bpl_place": "Gothenburg",
             "bpl_country": "Sweden",
@@ -78358,10 +78936,14 @@
             "je_ship_pos": [
                 2.9127,
                 51.231258000000004
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "15415",
+            "name_first": "Jan",
+            "name_last": "Frederick Palm",
             "id_ship": 6228,
             "bpl_place": "Gdansk",
             "bpl_country": "Poland",
@@ -78385,10 +78967,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "12.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "15417",
+            "name_first": "Jan",
+            "name_last": "Paulus",
             "id_ship": 6228,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -78412,10 +78998,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "12.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "15458",
+            "name_first": "Hans",
+            "name_last": "Pettersen",
             "id_ship": 6248,
             "bpl_place": "Vester Haerup",
             "bpl_country": "Denmark",
@@ -78439,10 +79029,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "15459",
+            "name_first": "Mathys",
+            "name_last": "Andriesz",
             "id_ship": 6249,
             "bpl_place": "Oksby",
             "bpl_country": "Denmark",
@@ -78466,10 +79060,14 @@
             "je_ship_pos": [
                 -62.973555000000005,
                 17.4890306
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "15547",
+            "name_first": "Hendrik",
+            "name_last": "Klok",
             "id_ship": 6289,
             "bpl_place": "Lichnowy, Malbork County",
             "bpl_country": "Poland",
@@ -78493,10 +79091,14 @@
             "je_ship_pos": [
                 -62.973555000000005,
                 17.4890306
-            ]
+            ],
+            "ship_month": "12.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "15549",
+            "name_first": "Albert",
+            "name_last": "Hillebrand",
             "id_ship": 6291,
             "bpl_place": "Weener",
             "bpl_country": "Germany",
@@ -78520,10 +79122,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "15552",
+            "name_first": "David",
+            "name_last": "Jacobs",
             "id_ship": 6292,
             "bpl_place": "Borkum",
             "bpl_country": "Germany",
@@ -78547,10 +79153,14 @@
             "je_ship_pos": [
                 -6.29024,
                 36.529861
-            ]
+            ],
+            "ship_month": "12.0",
+            "ship_year": "1778.0"
         },
         {
             "id_crew": "15842",
+            "name_first": "Dirck",
+            "name_last": "Moris",
             "id_ship": 6416,
             "bpl_place": "Oldenburg",
             "bpl_country": "Germany",
@@ -78574,10 +79184,14 @@
             "je_ship_pos": [
                 -6.29024,
                 36.529861
-            ]
+            ],
+            "ship_month": "8.0",
+            "ship_year": "1779.0"
         },
         {
             "id_crew": "16156",
+            "name_first": "Daniel",
+            "name_last": "Lemick",
             "id_ship": 6553,
             "bpl_place": "Sztutowo",
             "bpl_country": "Poland",
@@ -78601,10 +79215,14 @@
             "je_ship_pos": [
                 -57.5166667,
                 6.25
-            ]
+            ],
+            "ship_month": "11.0",
+            "ship_year": "1782.0"
         },
         {
             "id_crew": "16159",
+            "name_first": "Harman",
+            "name_last": "Emling",
             "id_ship": 6554,
             "bpl_place": "Essel",
             "bpl_country": "Germany",
@@ -78628,10 +79246,14 @@
             "je_ship_pos": [
                 -8.22733,
                 43.486851
-            ]
+            ],
+            "ship_month": "11.0",
+            "ship_year": "1779.0"
         },
         {
             "id_crew": "16266",
+            "name_first": "Adam",
+            "name_last": "Drewis",
             "id_ship": 6612,
             "bpl_place": "Wismar",
             "bpl_country": "Germany",
@@ -78655,10 +79277,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "16267",
+            "name_first": "Anders",
+            "name_last": "Janson",
             "id_ship": 6612,
             "bpl_place": "Gothenburg",
             "bpl_country": "Sweden",
@@ -78682,10 +79308,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "16280",
+            "name_first": "Jes",
+            "name_last": "Rasch",
             "id_ship": 6618,
             "bpl_place": "Ronne, Bornholm",
             "bpl_country": "Denmark",
@@ -78709,10 +79339,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "9.0",
+            "ship_year": "1777.0"
         },
         {
             "id_crew": "16281",
+            "name_first": "Roelof",
+            "name_last": "Eversz",
             "id_ship": 6618,
             "bpl_place": "Arendal",
             "bpl_country": "Norway",
@@ -78736,10 +79370,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "9.0",
+            "ship_year": "1777.0"
         },
         {
             "id_crew": "16523",
+            "name_first": "Joseph",
+            "name_last": "Libouris",
             "id_ship": 6737,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -78763,10 +79401,14 @@
             "je_ship_pos": [
                 1.08941,
                 49.44014
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "16665",
+            "name_first": "Caarl",
+            "name_last": "Christiaan Bunsow",
             "id_ship": 6805,
             "bpl_place": "Gdansk",
             "bpl_country": "Poland",
@@ -78790,10 +79432,14 @@
             "je_ship_pos": [
                 2.9127,
                 51.231258000000004
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "16666",
+            "name_first": "Hendrick",
+            "name_last": "Wendel",
             "id_ship": 6805,
             "bpl_place": "Ahus",
             "bpl_country": "Sweden",
@@ -78817,10 +79463,14 @@
             "je_ship_pos": [
                 2.9127,
                 51.231258000000004
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "16684",
+            "name_first": "Bernhard",
+            "name_last": "Muller",
             "id_ship": 6815,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -78844,10 +79494,14 @@
             "je_ship_pos": [
                 -0.58105,
                 44.836632
-            ]
+            ],
+            "ship_month": "6.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "16974",
+            "name_first": "Claas",
+            "name_last": "Koepman",
             "id_ship": 6968,
             "bpl_place": "Oberndorf, Cuxhaven",
             "bpl_country": "Germany",
@@ -78871,10 +79525,14 @@
             "je_ship_pos": [
                 3.22451,
                 51.208481
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17084",
+            "name_first": "Wiebe",
+            "name_last": "Doedes",
             "id_ship": 7016,
             "bpl_place": "Hindeloopen",
             "bpl_country": "Netherlands",
@@ -78898,10 +79556,14 @@
             "je_ship_pos": [
                 2.37679,
                 51.037048
-            ]
+            ],
+            "ship_month": "9.0",
+            "ship_year": "1779.0"
         },
         {
             "id_crew": "17133",
+            "name_first": "Jan",
+            "name_last": "Gysberts",
             "id_ship": 7033,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -78925,10 +79587,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17134",
+            "name_first": "Symen",
+            "name_last": "Hendricks Flier",
             "id_ship": 7033,
             "bpl_place": "Veendam",
             "bpl_country": "Netherlands",
@@ -78952,10 +79618,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17135",
+            "name_first": "Jan",
+            "name_last": "Morisse",
             "id_ship": 7033,
             "bpl_place": "Tossens, Butjadingen",
             "bpl_country": "Germany",
@@ -78979,10 +79649,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17182",
+            "name_first": "Hendrick",
+            "name_last": "Samuel",
             "id_ship": 7053,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -79006,10 +79680,14 @@
             "je_ship_pos": [
                 1.08941,
                 49.44014
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17190",
+            "name_first": "Andries",
+            "name_last": "Engel",
             "id_ship": 7056,
             "bpl_place": "Emmerlev",
             "bpl_country": "Denmark",
@@ -79033,10 +79711,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17202",
+            "name_first": "Jan",
+            "name_last": "Stemper Horst",
             "id_ship": 7059,
             "bpl_place": "Varel",
             "bpl_country": "Germany",
@@ -79060,10 +79742,14 @@
             "je_ship_pos": [
                 106.82998700000002,
                 -6.169988
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17215",
+            "name_first": "Hendrick",
+            "name_last": "Buck",
             "id_ship": 7063,
             "bpl_place": "Poel",
             "bpl_country": "Germany",
@@ -79087,10 +79773,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17218",
+            "name_first": "Jurgen",
+            "name_last": "Alexander",
             "id_ship": 7064,
             "bpl_place": "Holstein",
             "bpl_country": "Germany",
@@ -79114,10 +79804,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17219",
+            "name_first": "Jacob",
+            "name_last": "Sybrandt Steur",
             "id_ship": 7064,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -79141,10 +79835,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17220",
+            "name_first": "Peter",
+            "name_last": "Fisser",
             "id_ship": 7064,
             "bpl_place": "Copenhagen",
             "bpl_country": "Denmark",
@@ -79168,10 +79866,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17240",
+            "name_first": "Friedrik",
+            "name_last": "Harman",
             "id_ship": 7071,
             "bpl_place": "Hamburg",
             "bpl_country": "Germany",
@@ -79195,10 +79897,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17245",
+            "name_first": "Pier",
+            "name_last": "Piersen",
             "id_ship": 7073,
             "bpl_place": "Ameland",
             "bpl_country": "Netherlands",
@@ -79222,10 +79928,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "4.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17246",
+            "name_first": "Benjamin",
+            "name_last": "Arndt",
             "id_ship": 7073,
             "bpl_place": "Kaliningrad",
             "bpl_country": "GERMANY",
@@ -79249,10 +79959,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "4.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17254",
+            "name_first": "Hendrick",
+            "name_last": "Piplo",
             "id_ship": 7076,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -79276,10 +79990,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "10.0",
+            "ship_year": "1779.0"
         },
         {
             "id_crew": "17255",
+            "name_first": "Kornelis",
+            "name_last": "Jans",
             "id_ship": 7076,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -79303,10 +80021,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "10.0",
+            "ship_year": "1779.0"
         },
         {
             "id_crew": "17263",
+            "name_first": "Claas",
+            "name_last": "Arentz Koen",
             "id_ship": 7079,
             "bpl_place": "Oosterend",
             "bpl_country": "Netherlands",
@@ -79330,10 +80052,14 @@
             "je_ship_pos": [
                 -0.12714,
                 51.506321
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17283",
+            "name_first": "George",
+            "name_last": "Laprentz",
             "id_ship": 7085,
             "bpl_place": "Fehmarn",
             "bpl_country": "Germany",
@@ -79357,10 +80083,14 @@
             "je_ship_pos": [
                 -1.47627,
                 43.49287
-            ]
+            ],
+            "ship_month": "9.0",
+            "ship_year": "1778.0"
         },
         {
             "id_crew": "17307",
+            "name_first": "Pieter",
+            "name_last": "Jansen Venterpen",
             "id_ship": 7092,
             "bpl_place": "Noordwijk aan Zee",
             "bpl_country": "Netherlands",
@@ -79384,10 +80114,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17312",
+            "name_first": "Jan",
+            "name_last": "de Haas",
             "id_ship": 7094,
             "bpl_place": "Kaliningrad",
             "bpl_country": "GERMANY",
@@ -79411,10 +80145,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "6.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17317",
+            "name_first": "Coert",
+            "name_last": "Goversz",
             "id_ship": 7096,
             "bpl_place": "Mandal",
             "bpl_country": "Norway",
@@ -79438,10 +80176,14 @@
             "je_ship_pos": [
                 27.142296,
                 38.425144
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17322",
+            "name_first": "Roeloff",
+            "name_last": "Tunis Bakker",
             "id_ship": 7097,
             "bpl_place": "Stavanger",
             "bpl_country": "Norway",
@@ -79465,10 +80207,14 @@
             "je_ship_pos": [
                 0.1009,
                 49.493488
-            ]
+            ],
+            "ship_month": "10.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "17357",
+            "name_first": "Jan",
+            "name_last": "Beverwyk",
             "id_ship": 7112,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -79492,10 +80238,14 @@
             "je_ship_pos": [
                 18.474666,
                 -34.356714000000004
-            ]
+            ],
+            "ship_month": "10.0",
+            "ship_year": "1782.0"
         },
         {
             "id_crew": "17362",
+            "name_first": "Pieter",
+            "name_last": "Klaase Harsema",
             "id_ship": 7114,
             "bpl_place": "Groningen",
             "bpl_country": "Netherlands",
@@ -79519,10 +80269,14 @@
             "je_ship_pos": [
                 -0.988,
                 37.606730999999996
-            ]
+            ],
+            "ship_month": "8.0",
+            "ship_year": "1779.0"
         },
         {
             "id_crew": "17383",
+            "name_first": "Nicolaus",
+            "name_last": "Glasez",
             "id_ship": 7122,
             "bpl_place": "Hamburg",
             "bpl_country": "Germany",
@@ -79546,10 +80300,14 @@
             "je_ship_pos": [
                 3.60965,
                 51.495441
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17386",
+            "name_first": "Hendrick",
+            "name_last": "Blom",
             "id_ship": 7122,
             "bpl_place": "Texel",
             "bpl_country": "Netherlands",
@@ -79573,10 +80331,14 @@
             "je_ship_pos": [
                 3.60965,
                 51.495441
-            ]
+            ],
+            "ship_month": "2.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17428",
+            "name_first": "Pieter",
+            "name_last": "Freeriks",
             "id_ship": 7145,
             "bpl_place": "Gdansk",
             "bpl_country": "Poland",
@@ -79600,10 +80362,14 @@
             "je_ship_pos": [
                 2.9127,
                 51.231258000000004
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "17433",
+            "name_first": "Constern",
+            "name_last": "Roowevert",
             "id_ship": 7148,
             "bpl_place": "Hammel",
             "bpl_country": "Denmark",
@@ -79627,10 +80393,14 @@
             "je_ship_pos": [
                 5.37247,
                 43.293701
-            ]
+            ],
+            "ship_month": "9.0",
+            "ship_year": "1778.0"
         },
         {
             "id_crew": "17434",
+            "name_first": "Roelof",
+            "name_last": "Hagren",
             "id_ship": 7148,
             "bpl_place": "Hakarp",
             "bpl_country": "Sweden",
@@ -79654,10 +80424,14 @@
             "je_ship_pos": [
                 5.37247,
                 43.293701
-            ]
+            ],
+            "ship_month": "9.0",
+            "ship_year": "1778.0"
         },
         {
             "id_crew": "17449",
+            "name_first": "Jan",
+            "name_last": "Andersen",
             "id_ship": 7153,
             "bpl_place": "Sylt",
             "bpl_country": "Germany",
@@ -79681,10 +80455,14 @@
             "je_ship_pos": [
                 -3.36685,
                 47.750172
-            ]
+            ],
+            "ship_month": "12.0",
+            "ship_year": "1778.0"
         },
         {
             "id_crew": "17784",
+            "name_first": "Hendrick",
+            "name_last": "de Lange",
             "id_ship": 7305,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -79708,10 +80486,14 @@
             "je_ship_pos": [
                 3.60965,
                 51.495441
-            ]
+            ],
+            "ship_month": "7.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17828",
+            "name_first": "Claas",
+            "name_last": "Eehlers",
             "id_ship": 7323,
             "bpl_place": "Cuxhaven",
             "bpl_country": "Germany",
@@ -79735,10 +80517,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17829",
+            "name_first": "Lourens",
+            "name_last": "Alstrom",
             "id_ship": 7323,
             "bpl_place": "Stockholm",
             "bpl_country": "Sweden",
@@ -79762,10 +80548,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17830",
+            "name_first": "Jacob",
+            "name_last": "Faber",
             "id_ship": 7323,
             "bpl_place": "Kalmar",
             "bpl_country": "Sweden",
@@ -79789,10 +80579,14 @@
             "je_ship_pos": [
                 4.893330000000001,
                 52.373081
-            ]
+            ],
+            "ship_month": "3.0",
+            "ship_year": "1781.0"
         },
         {
             "id_crew": "17869",
+            "name_first": "Josephus Hermanus",
+            "name_last": "Steegman",
             "id_ship": 7335,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -79816,10 +80610,14 @@
             "je_ship_pos": [
                 -62.973555000000005,
                 17.4890306
-            ]
+            ],
+            "ship_month": "4.0",
+            "ship_year": "1779.0"
         },
         {
             "id_crew": "17873",
+            "name_first": "George",
+            "name_last": "Rowe",
             "id_ship": 7335,
             "bpl_place": "Shrewsbury, Shropshire",
             "bpl_country": "England",
@@ -79843,10 +80641,14 @@
             "je_ship_pos": [
                 -62.973555000000005,
                 17.4890306
-            ]
+            ],
+            "ship_month": "4.0",
+            "ship_year": "1779.0"
         },
         {
             "id_crew": "17883",
+            "name_first": "Ryntje",
+            "name_last": "Nobell",
             "id_ship": 7336,
             "bpl_place": "Ameland",
             "bpl_country": "Netherlands",
@@ -79870,10 +80672,14 @@
             "je_ship_pos": [
                 2.9127,
                 51.231258000000004
-            ]
+            ],
+            "ship_month": "12.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "17885",
+            "name_first": "Jan Harm",
+            "name_last": "Hagedoorn",
             "id_ship": 7336,
             "bpl_place": "Schaumburg",
             "bpl_country": "Germany",
@@ -79897,10 +80703,14 @@
             "je_ship_pos": [
                 2.9127,
                 51.231258000000004
-            ]
+            ],
+            "ship_month": "12.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "17887",
+            "name_first": "Christian",
+            "name_last": "Babbe",
             "id_ship": 7337,
             "bpl_place": "Fehmarn",
             "bpl_country": "Germany",
@@ -79924,10 +80734,14 @@
             "je_ship_pos": [
                 3.0390099999999998,
                 36.780559999999994
-            ]
+            ],
+            "ship_month": "5.0",
+            "ship_year": "1780.0"
         },
         {
             "id_crew": "17889",
+            "name_first": "Hans",
+            "name_last": "Joensen",
             "id_ship": 7338,
             "bpl_place": "Breivik",
             "bpl_country": "Norway",
@@ -79951,12 +80765,16 @@
             "je_ship_pos": [
                 -75.162452698,
                 39.952278137
-            ]
+            ],
+            "ship_month": "1.0",
+            "ship_year": "1782.0"
         }
     ],
     "crewFromAMS": [
         {
             "id_crew": "2489",
+            "name_first": "Gurryan",
+            "name_last": "Dlüts",
             "id_ship": 980,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -79984,6 +80802,8 @@
         },
         {
             "id_crew": "2609",
+            "name_first": "Walter",
+            "name_last": "Swan",
             "id_ship": 1028,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80011,6 +80831,8 @@
         },
         {
             "id_crew": "2944",
+            "name_first": "Jan",
+            "name_last": "Hendricksen",
             "id_ship": 1161,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80038,6 +80860,8 @@
         },
         {
             "id_crew": "3027",
+            "name_first": "Marten",
+            "name_last": "Jansen",
             "id_ship": 1195,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80065,6 +80889,8 @@
         },
         {
             "id_crew": "3671",
+            "name_first": "Jan",
+            "name_last": "Knop",
             "id_ship": 1451,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80092,6 +80918,8 @@
         },
         {
             "id_crew": "3672",
+            "name_first": "Johannes",
+            "name_last": "Garretson",
             "id_ship": 1451,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80119,6 +80947,8 @@
         },
         {
             "id_crew": "3716",
+            "name_first": "Gerrit",
+            "name_last": "Janssen",
             "id_ship": 1465,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80146,6 +80976,8 @@
         },
         {
             "id_crew": "4019",
+            "name_first": "Stephan",
+            "name_last": "van Feut",
             "id_ship": 1593,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80173,6 +81005,8 @@
         },
         {
             "id_crew": "4020",
+            "name_first": "Willem",
+            "name_last": "de Wilde",
             "id_ship": 1593,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80200,6 +81034,8 @@
         },
         {
             "id_crew": "4021",
+            "name_first": "Andrew",
+            "name_last": "Lowersen",
             "id_ship": 1593,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80227,6 +81063,8 @@
         },
         {
             "id_crew": "4271",
+            "name_first": "Jan",
+            "name_last": "van Beek",
             "id_ship": 1689,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80254,6 +81092,8 @@
         },
         {
             "id_crew": "4836",
+            "name_first": "John",
+            "name_last": "Johnson",
             "id_ship": 1959,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80281,6 +81121,8 @@
         },
         {
             "id_crew": "4853",
+            "name_first": "Albert",
+            "name_last": "Miller",
             "id_ship": 1968,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80308,6 +81150,8 @@
         },
         {
             "id_crew": "5020",
+            "name_first": "Evert",
+            "name_last": "Mayer",
             "id_ship": 2045,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80335,6 +81179,8 @@
         },
         {
             "id_crew": "5638",
+            "name_first": "Peter",
+            "name_last": "de Wilde",
             "id_ship": 2285,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80362,6 +81208,8 @@
         },
         {
             "id_crew": "5641",
+            "name_first": "Gosewin",
+            "name_last": "Peters",
             "id_ship": 2286,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80389,6 +81237,8 @@
         },
         {
             "id_crew": "6011",
+            "name_first": "Gabriel",
+            "name_last": "Fredericks",
             "id_ship": 2436,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80416,6 +81266,8 @@
         },
         {
             "id_crew": "6564",
+            "name_first": "Ares",
+            "name_last": "Claaesen Platte",
             "id_ship": 2648,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80443,6 +81295,8 @@
         },
         {
             "id_crew": "6697",
+            "name_first": "Hendrick",
+            "name_last": "de Bruyn",
             "id_ship": 2701,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80470,6 +81324,8 @@
         },
         {
             "id_crew": "6770",
+            "name_first": "Hindrich",
+            "name_last": "Palm Boom",
             "id_ship": 2727,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80497,6 +81353,8 @@
         },
         {
             "id_crew": "7132",
+            "name_first": "Abraham",
+            "name_last": "van de Nelde",
             "id_ship": 2880,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80524,6 +81382,8 @@
         },
         {
             "id_crew": "7878",
+            "name_first": "Peter",
+            "name_last": "Laurents",
             "id_ship": 3166,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80551,6 +81411,8 @@
         },
         {
             "id_crew": "8487",
+            "name_first": "Henry",
+            "name_last": "van der Werf",
             "id_ship": 3393,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80578,6 +81440,8 @@
         },
         {
             "id_crew": "8537",
+            "name_first": "Jan",
+            "name_last": "Jantzen",
             "id_ship": 3413,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80605,6 +81469,8 @@
         },
         {
             "id_crew": "8589",
+            "name_first": "Jan",
+            "name_last": "Sprock Lenburg",
             "id_ship": 3433,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80632,6 +81498,8 @@
         },
         {
             "id_crew": "10096",
+            "name_first": "Dirck",
+            "name_last": "Beckman",
             "id_ship": 4006,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80659,6 +81527,8 @@
         },
         {
             "id_crew": "11082",
+            "name_first": "Daniel",
+            "name_last": "Corrich",
             "id_ship": 4403,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80686,6 +81556,8 @@
         },
         {
             "id_crew": "11124",
+            "name_first": "Adam",
+            "name_last": "Wolfe",
             "id_ship": 4421,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80713,6 +81585,8 @@
         },
         {
             "id_crew": "11878",
+            "name_first": "Dirk",
+            "name_last": "Fransen",
             "id_ship": 4713,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80740,6 +81614,8 @@
         },
         {
             "id_crew": "12349",
+            "name_first": "Gomes",
+            "name_last": "Silvero",
             "id_ship": 4914,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80767,6 +81643,8 @@
         },
         {
             "id_crew": "13888",
+            "name_first": "Jan",
+            "name_last": "Pytters Yson",
             "id_ship": 5549,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80794,6 +81672,8 @@
         },
         {
             "id_crew": "14080",
+            "name_first": "Jan",
+            "name_last": "Bousset",
             "id_ship": 5631,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80821,6 +81701,8 @@
         },
         {
             "id_crew": "14542",
+            "name_first": "Johannes",
+            "name_last": "vander Mark",
             "id_ship": 5841,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80848,6 +81730,8 @@
         },
         {
             "id_crew": "14543",
+            "name_first": "Cornelis",
+            "name_last": "Christian Ziewerts",
             "id_ship": 5841,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80875,6 +81759,8 @@
         },
         {
             "id_crew": "14598",
+            "name_first": "Hendrick",
+            "name_last": "Coen",
             "id_ship": 5866,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80902,6 +81788,8 @@
         },
         {
             "id_crew": "14760",
+            "name_first": "Reindert",
+            "name_last": "van Neuberg",
             "id_ship": 5944,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80929,6 +81817,8 @@
         },
         {
             "id_crew": "14853",
+            "name_first": "Hendrick",
+            "name_last": "Poopes",
             "id_ship": 5986,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80956,6 +81846,8 @@
         },
         {
             "id_crew": "15195",
+            "name_first": "Elderts",
+            "name_last": "Frenes",
             "id_ship": 6131,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -80983,6 +81875,8 @@
         },
         {
             "id_crew": "15319",
+            "name_first": "Phillippe",
+            "name_last": "Jacques Mansury",
             "id_ship": 6189,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -81010,6 +81904,8 @@
         },
         {
             "id_crew": "15324",
+            "name_first": "Laurens",
+            "name_last": "Pieters the younger",
             "id_ship": 6191,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -81037,6 +81933,8 @@
         },
         {
             "id_crew": "15417",
+            "name_first": "Jan",
+            "name_last": "Paulus",
             "id_ship": 6228,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -81064,6 +81962,8 @@
         },
         {
             "id_crew": "15425",
+            "name_first": "Gerrit",
+            "name_last": "van Swighum",
             "id_ship": 6230,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -81091,6 +81991,8 @@
         },
         {
             "id_crew": "16523",
+            "name_first": "Joseph",
+            "name_last": "Libouris",
             "id_ship": 6737,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -81118,6 +82020,8 @@
         },
         {
             "id_crew": "16684",
+            "name_first": "Bernhard",
+            "name_last": "Muller",
             "id_ship": 6815,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -81145,6 +82049,8 @@
         },
         {
             "id_crew": "17099",
+            "name_first": "Ebbe",
+            "name_last": "Ebbes",
             "id_ship": 7021,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -81172,6 +82078,8 @@
         },
         {
             "id_crew": "17133",
+            "name_first": "Jan",
+            "name_last": "Gysberts",
             "id_ship": 7033,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -81199,6 +82107,8 @@
         },
         {
             "id_crew": "17182",
+            "name_first": "Hendrick",
+            "name_last": "Samuel",
             "id_ship": 7053,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -81226,6 +82136,8 @@
         },
         {
             "id_crew": "17219",
+            "name_first": "Jacob",
+            "name_last": "Sybrandt Steur",
             "id_ship": 7064,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -81253,6 +82165,8 @@
         },
         {
             "id_crew": "17254",
+            "name_first": "Hendrick",
+            "name_last": "Piplo",
             "id_ship": 7076,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -81280,6 +82194,8 @@
         },
         {
             "id_crew": "17255",
+            "name_first": "Kornelis",
+            "name_last": "Jans",
             "id_ship": 7076,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -81307,6 +82223,8 @@
         },
         {
             "id_crew": "17336",
+            "name_first": "Cornelis",
+            "name_last": "Aarts",
             "id_ship": 7102,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -81334,6 +82252,8 @@
         },
         {
             "id_crew": "17357",
+            "name_first": "Jan",
+            "name_last": "Beverwyk",
             "id_ship": 7112,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -81361,6 +82281,8 @@
         },
         {
             "id_crew": "17497",
+            "name_first": "Jerome",
+            "name_last": "Cottins",
             "id_ship": 7173,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -81388,6 +82310,8 @@
         },
         {
             "id_crew": "17784",
+            "name_first": "Hendrick",
+            "name_last": "de Lange",
             "id_ship": 7305,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -81415,6 +82339,8 @@
         },
         {
             "id_crew": "17815",
+            "name_first": "Pieter",
+            "name_last": "Backer",
             "id_ship": 7317,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -81442,6 +82368,8 @@
         },
         {
             "id_crew": "17869",
+            "name_first": "Josephus Hermanus",
+            "name_last": "Steegman",
             "id_ship": 7335,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
@@ -81469,6 +82397,8 @@
         },
         {
             "id_crew": "17884",
+            "name_first": "Jan Jacob",
+            "name_last": "Zouw",
             "id_ship": 7336,
             "bpl_place": "Amsterdam",
             "bpl_country": "Netherlands",
